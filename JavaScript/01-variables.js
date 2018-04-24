@@ -1,5 +1,7 @@
 console.log('Hola javascript!');
+var mutar;
 var nombre = 'Pao Steph';
+console.log(nombre);
 var edad = 28;
 var deudas = 45487.15;
 var fechaNacimiento = new Date();
